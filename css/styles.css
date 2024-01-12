@@ -21,3 +21,13 @@
 .social .icon h3{
   font-size: 2vh;
 }
+.social img{
+  height:50%;
+} 
+.design img{
+  border-radius: 50%;
+}
+.design{
+  background-color: aliceblue;
+}
+  
