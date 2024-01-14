@@ -18,12 +18,15 @@
 .tnw h2{
   color: #fff;
 }
+/* Social */
 .social .icon h3{
   font-size: 2vh;
 }
 .social img{
-  height:50%;
+  /* height: 50%; */
+  height: 75vh;
 } 
+/* ./Social */
 .design img{
   border-radius: 50%;
 }
